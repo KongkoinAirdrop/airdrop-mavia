@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@flashbots/ethers-provider-bundle": "^0.6.2",
+    "ethers": "^5.7.2",
+    "fetch": "^1.1.0",
+    "node-fetch": "^3.3.2",
+    "node-fetch-commonjs": "^3.3.2",
+    "process": "^0.11.10",
+    "yesno": "^0.4.0"
+  },
+  "scripts": {
+    "start": "node flashbot.js"
+  }
+}
