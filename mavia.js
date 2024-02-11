@@ -4,7 +4,6 @@ const {
   FlashbotsBundleResolution,
 } = require("@flashbots/ethers-provider-bundle")
 const { exit } = require("process")
-const yesno = require("yesno")
 
 
 /*
