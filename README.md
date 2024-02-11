@@ -1,4 +1,4 @@
 # HOW TO RUN
 
-npm install
-node mavia.js
+``npm install
+node mavia.js``
